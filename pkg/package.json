@@ -1,0 +1,15 @@
+{
+  "name": "rust-calculate",
+  "collaborators": [
+    "Rutujapatil24"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "rust_calculate_bg.wasm",
+    "rust_calculate.js",
+    "rust_calculate.d.ts"
+  ],
+  "module": "rust_calculate.js",
+  "types": "rust_calculate.d.ts",
+  "sideEffects": false
+}
